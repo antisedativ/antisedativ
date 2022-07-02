@@ -1,8 +1,8 @@
 ### Hello, my name is Artem 👋 
 
-- I am a beginner developer 💻
+- Beginner developer 💻
 - I am currently working on pet projects 🏠
-- I am currently studying at the university 📚
+- Studying at Kuban State University 📚
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-antisedativ&color=blue&style=flat&label=Visitors)
 
