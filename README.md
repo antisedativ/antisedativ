@@ -13,7 +13,7 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-b1c5e2?style=flat-square&logo=Telegram)](https://t.me/Antisedativ)
 
 ### Stats 📈
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=antisedativ&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=antisedativ&show_icons=true&theme=nightowl )
 
 ### 
 ![snake gif](https://github.com/antisedativ/antisedativ/blob/output/github-contribution-grid-snake.svg)
