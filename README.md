@@ -5,7 +5,6 @@
 - Studying at Kuban State University 📚
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-antisedativ&color=blue&style=flat&label=Visitors)
-![Code Wars](https://www.codewars.com/users/antisedativ/badges/micro)
 
 ### Contact me 📞
 
