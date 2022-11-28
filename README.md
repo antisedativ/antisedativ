@@ -4,7 +4,7 @@
 - I am currently working on pet projects 🏠
 - Studying at Kuban State University 📚
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-antisedativ&color=blue&style=flat&label=Visitors)
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=your-github-antisedativ&color=blue&style=flat&label=Visitors) -->
 
 ### Contact me 📞
 
