@@ -18,3 +18,6 @@
 <!-- [![VK](https://img.shields.io/badge/-VK-blue?style=flat-square&logo=VK)](https://vk.com/arrr_r)  -->
 
 [![Telegram](https://img.shields.io/badge/-Telegram-b1c5e2?style=flat-square&logo=Telegram)](https://t.me/antisedative)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antisedativ&layout=pie&langs_count=12&theme=midnight-purple)](https://github.com/antisedativ?tab=repositories)
